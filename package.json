@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/alikurniawan/todo-indexjs-cli/issues"
   },
-  "homepage": "https://github.com/alikurniawan/todo-indexjs-cli#readme"
+  "homepage": "https://github.com/alikurniawan/todo-indexjs-cli#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.3"
+  }
 }
