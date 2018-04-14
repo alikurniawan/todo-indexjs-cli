@@ -18,7 +18,8 @@ let inputListed = [];
 let inner1 = "";
 let viewsX = inner1.innerHTML = `
 <div>
-  <h1>Ali Kurniawan</h1>
+  <h1>Server is running Now</h1>
+  <h2>to Access API please use :</h2><a href=""><button type="submit">Client Area</button></a>
   <img src="server2.png">
 </div>
 `;
