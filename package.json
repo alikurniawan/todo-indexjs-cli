@@ -1,38 +1,23 @@
 {
-<<<<<<< HEAD
-  "name": "todoexpress",
-=======
-  "name": "htmlexpress",
->>>>>>> 0b3c656130c5fefd3ffa885bfd5087c47e6e66ff
+  "name": "todoexpresscli",
   "version": "0.1.0",
-  "description": "Input Data Express",
-  "main": "./assets/js/index.js",
+  "description": "cli js access todo express",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index"
   },
-  "author": "Ali Kurniawan",
-  "license": "ISC",
-  "dependencies": {
-    "axios": "^0.18.0",
-    "body-parser": "^1.18.2",
-    "cors": "^2.8.4",
-    "express": "^4.16.3"
-<<<<<<< HEAD
-  },
-  "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alikurniawan/Todo-Express.git"
+    "url": "git+https://github.com/alikurniawan/todo-indexjs-cli.git"
   },
   "keywords": [
     "express"
   ],
+  "author": "Ali Kurniawan",
+  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alikurniawan/Todo-Express/issues"
+    "url": "https://github.com/alikurniawan/todo-indexjs-cli/issues"
   },
-  "homepage": "https://github.com/alikurniawan/Todo-Express#readme"
-=======
-  }
->>>>>>> 0b3c656130c5fefd3ffa885bfd5087c47e6e66ff
+  "homepage": "https://github.com/alikurniawan/todo-indexjs-cli#readme"
 }
