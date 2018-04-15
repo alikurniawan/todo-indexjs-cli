@@ -18,7 +18,7 @@ app.use(express.static('public')) //Get some images
 
 let inputListed = [];
 
-const urlPage1 = 'http://localhost:3333';
+const urlPage1 = 'https://todo-express-2018.herokuapp.com';
 
 let inner1 = "";
 let htmlPageServer = inner1.innerHTML = `
