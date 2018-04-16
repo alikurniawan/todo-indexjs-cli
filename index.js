@@ -32,7 +32,8 @@ let htmlPageServer = inner1.innerHTML = `
     <hr class="my-4">
 
     <p class="lead">
-      <a id="btnClientApi" class="btn btn-primary btn-lg" href="${urlPage1}/index"  role="button">Client API</a>
+      <label class="red animated invinite bounce">Press this :</label>
+      <a id="btnClientApi" class="btn btn-primary btn-lg animated shake" href="${urlPage1}/index"  role="button">Client API</a>
     </p>
 
     <div class="container">
